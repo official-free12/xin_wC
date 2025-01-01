@@ -1,0 +1,6 @@
+# 新！钱包理财+拼团游戏+花火
+
+抢购：<br>三个进度条，分别体现三个可兑换余额数量，和单价，会员可根据U的余额价格和进度条的余额跟<br>每个进度条做一个倒计时开启时间，每个进度条的余额值后台填写数量，每会员用U余额兑换一次<br>就根据兑换的值减少。<br>会员投资：<br>EKN分为三个投入级别<br>（1）兑换金额500U加10个A作为入场劵，根据U的价格，对应后台填写B价格的参数所得B数量乘<br>以2的倍数形成一个一级资产包，按180天，恒定释放到B可用余额。<br>（2）兑换金额2024U加10个A做为入场劵，根据U的价格，对应后台填写B价格的参数所得B数量乘<br>example.com，按180天恒定释放到B可用余额。<br>（3）兑换金额5000U加10个EKA做为入场劵，根据USDT的价格，对应后台填写EKN价格的参数所得EKN<br>数量乘以3的倍数形成一个三级资产包，按180天恒定释放到B可用余额。<br>注：A做为B投入门票，需要多少个作为门票后台可以调节。<br>B购买资产包，每个会员限购500U的五份，2024U的三份，5000U的一份。<br>动态收益：<br>会员直推:10%<br>团队奖：<br>V1团队奖<br>升级条件除个人投资伞下业绩达到10万U，拿小区业绩的8%，<br>V2团队奖<br>升级条件除个人投资伞下业绩达到50万U，拿小区业绩10%<br>V3团队奖<br>升级条件除个人投资伞下业绩达到100万U，拿小区业绩12%<br>注：网体大小区区分，个人网体除去一个大区所有线都算小区。<br>注意不用考虑级差<br>EKN购买资产包，每个会员限购500U的五份，2024U的三份，5000U的一份<br>拼团：<br>拼团所用余额A入场，结算也是A。<br>参团所需门票B,<br>基本规则<br>首页点拼团进入拼团首页，<br>首页布局<br>上部加入拼团和在线拼团人数，<br>可二开。。有疑问找客服~<br>演示版APP下载：http://example.com/l8u9<br>演示账号：asdf001密码：111111<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/l2KfC" style="color: red;">https://mega-file.org/l2KfC</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
